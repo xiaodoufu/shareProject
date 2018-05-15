@@ -24,6 +24,8 @@
 </head>
 
 <body>
+
+<%-- XDF    second --%>
    <%--  <a href="DeptServlet?id=1">aaa</a> --%>
  <!-- dsdss -->
  <%
