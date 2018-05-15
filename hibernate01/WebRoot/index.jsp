@@ -24,6 +24,7 @@
 </head>
 
 <body>
+<!--YYM first  -->
    <%--  <a href="DeptServlet?id=1">aaa</a> --%>
  <!-- dsdss -->
  <%
